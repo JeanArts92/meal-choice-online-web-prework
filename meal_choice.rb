@@ -1,3 +1,5 @@
+require. 'pry'
+
 def meal_choice(meal = "meat")
   binding.pry 
 end
